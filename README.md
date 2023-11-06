@@ -1,3 +1,6 @@
+### This project has been shifted to Processing's [github.com/processing/cardboard-wrapper-sdk](https://github.com/processing/cardboard-wrapper-sdk)
+
+
 # Wrapper Class for Cardboard SDk
 The [Cardboard SDK](https://developers.google.com/cardboard/develop/c/quickstart) is the latest supported library by Google to support the creation of VR Apps on Android. Though, the addition of JNI complicates things for developers, creating a wrapper over the Native library can help facilitate VR development not only in the Processing Community but anyone who wants to use Cardboard SDK to create VR apps. 
 
